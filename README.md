@@ -19,7 +19,7 @@
 
 ## About Me
 
-**Data Scientist and AI Engineer** with 3+ years of production experience at **Cybereason (LevelBlue)** — building LLM agents, RAG pipelines, anomaly detection systems, and scalable data infrastructure for enterprise security analytics.
+**Data Scientist and AI Engineer** with almost 3 years of production experience at **Cybereason (LevelBlue)** — building LLM agents, RAG pipelines, anomaly detection systems, and scalable data infrastructure for enterprise security analytics.
 
 - 🔒 Built AI systems operating on adversarial, high-volume security telemetry at enterprise scale
 - 🧠 Full-stack ownership: raw data → feature engineering → model → API → dashboard
