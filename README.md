@@ -99,16 +99,6 @@ Enterprise threat intelligence pipeline in production. Cut report generation fro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kethanpabbi&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 💼 Experience
 
 | Period | Role | Company |
