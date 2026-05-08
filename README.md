@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/40783770?v=4" width="120" style="border-radius:50%"/>
+<img src="./assets/1711100935704.jpeg" width="120" style="border-radius:50%"/>
 
 # Kethan Pabbi
 
