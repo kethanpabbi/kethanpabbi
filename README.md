@@ -75,6 +75,14 @@ Upload PDFs, ask questions in natural language, get accurate answers with page-l
 
 ---
 
+### 🏨 [Marriott Lumina — AI Hotel Concierge](https://github.com/kethanpabbi/Marriott-Agent)
+
+AI concierge for Marriott Bonvoy properties — ask questions in natural language and get answers drawn from real hotel data (ratings, prices, amenities, dining) across **9,872 properties** sourced from Booking.com. Two orchestration modes: a hand-coded WorkflowManager pipeline and a Claude Console managed-agent loop, toggled by env var.
+
+`Next.js 15` `TypeScript` `Claude Haiku` `Managed Agents` `Ollama` `Prisma` `SQLite`
+
+---
+
 ### 🔴 [LLM Red Teaming Framework](https://github.com/kethanpabbi/LLM-Red-Teaming-Framework)
 
 Automated adversarial security testing for LLM applications. Runs **30 real-world attack scenarios** — prompt injection, jailbreaks, DAN variants, base64 smuggling, PII leakage, alignment bypass. Severity-classified HTML/JSON reports. Where cybersecurity meets AI safety.
