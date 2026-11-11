@@ -24,7 +24,7 @@
 - 🔒 Built AI systems operating on adversarial, high-volume security telemetry at enterprise scale
 - 🧠 Full-stack ownership: raw data → feature engineering → model → API → dashboard
 - 🎓 MSc Data Science & Analytics — **University College Cork, First Class Honours**
-- 📍 Ireland
+- 📍 Bengaluru, India
 ---
 
 ## 🛠️ Tech Stack
